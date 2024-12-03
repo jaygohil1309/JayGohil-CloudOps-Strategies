@@ -34,3 +34,5 @@
 #### Databases:
 - **Systems**: MySQL/PostgreSQL, Amazon RDS, Amazon DynamoDB
 - **Skills**: Database design, optimization, backup strategies
+
+

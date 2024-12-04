@@ -88,3 +88,8 @@ print(str.count("$"))
 
 
 
+
+
+
+
+

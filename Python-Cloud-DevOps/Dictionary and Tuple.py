@@ -80,7 +80,3 @@ print(set1.intersection(set2)) # Output = {3}
 
 
 
-
-
-
-

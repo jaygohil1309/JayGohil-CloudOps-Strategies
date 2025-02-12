@@ -81,5 +81,3 @@ print("Sorted_List :",list)
 
 
 
-
-

@@ -1,4 +1,4 @@
-
+ 
 # # 1) Concatenation and Length :-
 
 # a = "Hello"
@@ -84,5 +84,7 @@
 str = "jay@#*&^gohil$%#"
 print(str.find("$"))
 print(str.count("$"))
+
+
 
 

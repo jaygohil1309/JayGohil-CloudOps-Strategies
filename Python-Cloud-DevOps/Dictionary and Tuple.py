@@ -69,6 +69,14 @@
 
 # print(set1.union(set2)) # Output = {1,2,3,4,5}
 
+
+
+
+
+
+
+
+
 # Set_Intersection() Method:-
 
 set1 = {1,2,3}

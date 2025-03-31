@@ -90,9 +90,3 @@ print(str.count("$"))
 
 
 
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> 5b3abe144fca22cd0a15965f30578bc6b71ff15d

@@ -86,4 +86,3 @@ print(str.find("$"))
 print(str.count("$"))
 
 
-

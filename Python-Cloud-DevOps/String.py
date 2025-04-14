@@ -90,3 +90,7 @@ print(str.count("$"))
 
 
 
+
+
+
+

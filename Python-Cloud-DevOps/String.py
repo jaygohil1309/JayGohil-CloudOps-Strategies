@@ -84,3 +84,9 @@
 str = "jay@#*&^gohil$%#"
 print(str.find("$"))
 print(str.count("$"))
+
+
+
+
+
+

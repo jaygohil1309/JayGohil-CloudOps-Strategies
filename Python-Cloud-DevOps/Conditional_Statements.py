@@ -1,4 +1,4 @@
-"""
+hu"""
 
 1) If_______Else.....
 2) If___Elif___Else.....
@@ -64,5 +64,3 @@
 3) WAP to check if a number is a multiple of 7 or not ?
 
 """
-
-
